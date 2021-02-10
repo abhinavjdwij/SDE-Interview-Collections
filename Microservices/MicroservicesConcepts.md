@@ -18,5 +18,17 @@ It is simply the process of separating services that read data and the services 
 **References:**
 
 https://dzone.com/articles/microservices-with-cqrs-and-event-sourcing
-
 https://danielckv.medium.com/introduction-to-cqrs-in-microservices-70e4759d9ecc
+
+### API Gateway
+
+**Summary:**
+
+An API gateway is basically an entry point to all microservices.
+It takes all API calls from clients, then routes them to the appropriate microservice with request routing, composition, and protocol translation.
+It can be used to handle authentication / security.
+
+**References:**
+
+https://www.nginx.com/learn/api-gateway/
+https://microservices.io/patterns/apigateway.html
