@@ -2,3 +2,4 @@
 
 1. React Crash Course - https://www.youtube.com/watch?v=w7ejDZ8SWv8
 2. Express Crash Course - https://www.youtube.com/watch?v=L72fhGm1tfE
+3. ES6 Tutorials - https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm
